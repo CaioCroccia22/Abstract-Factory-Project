@@ -19,7 +19,7 @@ public class WebContainer implements Container{
     
     private int padding;
     
-    public WebContainer(int height, int width, int padding, int margin){
+    public WebContainer(){
         this.height = 0;
         this.width = 0;
         this.margin = 0;
